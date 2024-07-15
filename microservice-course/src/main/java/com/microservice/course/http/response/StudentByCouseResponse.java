@@ -1,6 +1,6 @@
 package com.microservice.course.http.response;
 
-import com.microservice.course.controller.sto.StudentDTO;
+import com.microservice.course.controller.dto.StudentDTO;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

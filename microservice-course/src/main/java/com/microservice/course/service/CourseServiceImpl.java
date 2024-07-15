@@ -1,7 +1,7 @@
 package com.microservice.course.service;
 
 import com.microservice.course.client.StudentClient;
-import com.microservice.course.controller.sto.StudentDTO;
+import com.microservice.course.controller.dto.StudentDTO;
 import com.microservice.course.entity.Course;
 import com.microservice.course.http.response.StudentByCouseResponse;
 import com.microservice.course.persistence.ICourseRepository;
